@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.charhabil.android.lostincity.MainActivity">
+    <item android:id="@+id/map_action"
+          android:title="@string/map_view"
+          android:icon="@mipmap/ic_launcher_map_round"
+          android:orderInCategory="200"
+          app:showAsAction="always"/>
+    <item android:id="@+id/filter_in_list"
+          android:title="@string/filter"
+          android:icon="@mipmap/ic_launcher_menu_round"
+          android:orderInCategory="100"
+          app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b81818</color>
+    <color name="colorPrimaryDark">#bd0606</color>
+    <color name="colorAccent">#522d47</color>
+    <color name="colorText">#ffffff</color>
+    <color name="blue">#0d1266</color>
+    <color name="black">#2b2a2b</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#f52516</color>
+    <color name="gray">#e6e3e6</color>
+    <color name="beige">#f5f2d7</color>
+    <drawable name="touchFeedback">#CFD8DC</drawable>
+    <color name="lineColor">#12000000</color>
+</resources>
